@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * Created by PhpStorm.
  * User: lishuang
@@ -6,5 +6,5 @@
  * Time: 23:53
  */
 echo "这是我的测试文件，看能不能提交上去";
-
+echo "fuck dog go to";
 ?>
